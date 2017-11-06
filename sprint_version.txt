@@ -1,4 +1,5 @@
-current_sprint = '17.10.5'
-previous_sprint = '17.10.4'
 sumanth 
 satya
+current_sprint = '17.10.5'
+previous_sprint = '17.10.4'
+
